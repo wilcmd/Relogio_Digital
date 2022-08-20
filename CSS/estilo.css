@@ -1,0 +1,42 @@
+#relogio{
+    font-family: sans-serif;
+    font-size: 80px;
+    text-shadow: 0px 0px 15px #333;
+    color: #fff;
+
+}
+#texto{
+    background-color: rgb(9, 152, 114);
+    font-family: sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 15px #333;
+    color: #fff;
+    max-width: 450px;
+    text-align: center;
+    border-radius: 5px;
+    margin:0 auto;
+    margin-top: 1%;
+    padding: 15px;
+    text-shadow: 0px 0px 8px rgb(14, 248, 104);
+    
+
+}
+.relogio-caixa{
+    background-color: rgb(12,119,206);
+    padding: 15px;
+    max-width: 450px;
+    text-align: center;
+    border-radius: 5px;
+    margin:0 auto;
+    margin-top: 10%;
+
+}
+#fecha{
+    letter-spacing: 10px;
+    font-size:20px;
+    
+}
+.animado{
+    text-shadow: 0px 0px 20px rgb(14, 248, 104);
+    border:rgb(14, 248, 147) 2px solid;
+}
